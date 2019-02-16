@@ -7,7 +7,7 @@ public class BeerExpert {
         List<String> brands = new ArrayList<>();
 
         if (color.equals("amber")) {
-            brands.add("Kack Amber..");
+            brands.add("Kack Amber.");
             brands.add("Red Moose.");
             return brands;
         }

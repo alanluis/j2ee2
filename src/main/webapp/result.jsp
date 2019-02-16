@@ -37,7 +37,7 @@
             %>
     
             <hr/>
-            <h1>Session attribute Dog</h1>
+            <h1>Session attribute Dog.</h1>
             <%= session.getAttribute("dogSession") %>
             
             <hr/>
