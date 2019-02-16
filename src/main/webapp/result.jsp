@@ -47,7 +47,7 @@
             <hr/>
             <h1>Expression Language (EL)</h1>
             Expression: ${1.2 + 2.3}<br>
-            Expression: ${42 div 0}<br>
+            Expression: ${42 / 0}<br>
             Cookie: ${cookie.MyCookie.getValue()}<br>
             Init Param do contexto: ${initParam.appEmail}<br>
 
