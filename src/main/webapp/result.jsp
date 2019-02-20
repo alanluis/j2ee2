@@ -250,7 +250,7 @@
 			<table border="1">
 				<classicTags:classic>
 					<tr>
-						<td>bunda ${classicMovie}</td>
+						<td>${classicMovie}</td>
 					</tr>
 				</classicTags:classic>
 			</table>
